@@ -1,4 +1,4 @@
-# 🪙 Isagha Gold Prices Scraper
+# 🪙 Gold Prices Scraper
 
 This project is a **Python web scraping script** that collects **real-time gold prices** from [Isagha.com](https://market.isagha.com/prices) and saves the extracted data to a **CSV file**.  
 It captures gold price details such as **gauge (العيار)**, **buy price**, **sell price**, **currency**, and **price change information**.
